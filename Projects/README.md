@@ -7,6 +7,9 @@
 5. Build a quadcopter flying agent that learns to take off, hover and land using reinforcement learning
 
 Cloned from:
+
 https://github.com/udacity/deep-learning/tree/master/
+
 https://github.com/udacity/dog-project
+
 https://github.com/udacity/RL-Quadcopter-2
